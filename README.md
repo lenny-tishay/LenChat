@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/logo2.php" alt="LenChat logo" width="88" height="88">
+<img src="assets/logo2.png" alt="LenChat logo" width="88" height="88">
 
 # LenChat
 
