@@ -20,9 +20,9 @@ A free, open-source, developer-first AI workspace. Bring your own API keys, drop
 
 <br>
 
-<img src="https://REPLACE-ME/lenchat-hero-landscape.png" alt="LenChat workspace: dark theme, file tray and live preview" width="100%">
+<img src="https://leonard.lentech.co.ke/images/lenchat.jpg" alt="LenChat workspace" width="100%">
 
-<sub>Screenshot placeholder: replace with a landscape capture (about 1600 x 900) of the main workspace.</sub>
+<sub>LenChat main workspace.</sub>
 
 </div>
 
