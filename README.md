@@ -32,9 +32,9 @@ A free, open-source, developer-first AI workspace. Bring your own API keys, drop
 
 | | | |
 |---|---|---|
-| [🚀 Quick Start](#-quick-start) | [✨ Key Features](#-key-features) | [🤖 Supported AI Providers](#-supported-ai-providers) |
-| [📖 Installation & Setup Guide](#-installation--setup-guide) | [🛠️ Technology Stack](#%EF%B8%8F-technology-stack) | [📁 Project Structure](#-project-structure) |
-| [🔒 Privacy & Local-First Architecture](#-privacy--local-first-architecture) | [📜 Licensing & Attribution](#-licensing--attribution) | [💖 Support & Donate](#-support--donate) |
+| [Quick Start](#-quick-start) | [Key Features](#-key-features) | [Supported AI Providers](#-supported-ai-providers) |
+| [Installation & Setup Guide](#-installation--setup-guide) | [Technology Stack](#%EF%B8%8F-technology-stack) | [Project Structure](#-project-structure) |
+| [Privacy & Local-First Architecture](#-privacy--local-first-architecture) | [Licensing & Attribution](#-licensing--attribution) | [💖 Support & Donate](#-support--donate) |
 
 <br>
 
@@ -67,13 +67,13 @@ Then open **http://127.0.0.1:8000**, click **Settings**, add an API key for any 
 <tr>
 <td width="50%" valign="top">
 
-**🤖 Multi-provider AI engine**
+** Multi-provider AI engine**
 OpenAI, Anthropic, Gemini, Groq, DeepSeek, OpenRouter, local Ollama and any OpenAI-style endpoint, all from one interface.
 
 </td>
 <td width="50%" valign="top">
 
-**📦 Project context & codebase analysis**
+** Project context & codebase analysis**
 Drop ZIPs, folders or many files at once. Get a directory tree and file-by-file context attached to your prompt.
 
 </td>
@@ -81,13 +81,13 @@ Drop ZIPs, folders or many files at once. Get a directory tree and file-by-file 
 <tr>
 <td valign="top">
 
-**📄 Document extraction & OCR**
+** Document extraction & OCR**
 Read PDF, DOCX and XLSX in the browser. Images are sent to vision models, or read with OCR for text-only models.
 
 </td>
 <td valign="top">
 
-**🖼️ Live web & UI sandbox**
+** Live web & UI sandbox**
 HTML, CSS, JS and SVG from the AI render live in a sandboxed iframe. Edit the code and watch it update.
 
 </td>
@@ -378,7 +378,7 @@ LenChat/
 
 <br>
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 | Layer | Technology | Role |
 |---|---|---|
@@ -415,7 +415,7 @@ Copyright (c) 2026 Leonard Muia t/a LENTECH DIGIWORKS.
 
 <br>
 
-## 💖 Support & Donate
+## ❤ Support & Donate
 
 LenChat is built and maintained by **Leonard Muia** and is free for everyone. If it saves you time or money, you can help it keep growing:
 
