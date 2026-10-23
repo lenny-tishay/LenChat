@@ -20,7 +20,7 @@ A free, open-source, developer-first AI workspace. Bring your own API keys, drop
 
 <br>
 
-<img src="https://leonard.lentech.co.ke/images/lenchat.jpg" alt="LenChat workspace" width="100%">
+<img src="assets/lenchat.jpg" alt="LenChat workspace" width="100%">
 
 <sub>LenChat main workspace.</sub>
 
@@ -188,13 +188,13 @@ Export and import sessions and settings, keep a snippet library, tag and search 
 <br>
 
 <div align="center">
-<img src="https://REPLACE-ME/lenchat-project-context-landscape.png" alt="Dropping a project folder into LenChat and viewing the attachment tree" width="100%">
+<img src="assets/tree.png" alt="Dropping a project folder into LenChat and viewing the attachment tree" width="100%">
 <br>
-<sub>Screenshot placeholder: landscape capture of the attachment tray with the project tree open.</sub>
+<sub>You can Upload files, folders and zip.</sub>
 <br><br>
-<img src="https://REPLACE-ME/lenchat-live-preview-landscape.png" alt="Live sandbox preview next to the code canvas" width="100%">
+<img src="assets/canva.png" alt="Live sandbox preview next to the code canvas" width="100%">
 <br>
-<sub>Screenshot placeholder: landscape capture of a live HTML preview beside the code canvas.</sub>
+<sub>html can be rendered by canvas.</sub>
 </div>
 
 <br>
