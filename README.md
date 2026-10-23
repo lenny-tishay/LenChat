@@ -374,7 +374,7 @@ No Node.js. No database. No build pipeline.
 
 LenChat is released under the **GNU Affero General Public License v3.0 (AGPL-3.0)** with **additional attribution requirements under Section 7**. Read [`LICENSE`](LICENSE) and [`NOTICE.md`](NOTICE.md) before redistributing or hosting a modified version. In short: you may use, study, modify and share LenChat, you must keep the required attribution, and modified versions served over a network must offer their source.
 
-**Commercial licensing.** If you need to build LenChat into a closed-source product, a commercial license without AGPL obligations is available from LENTECH DIGIWORKS: [lentech.co.ke/lenchat-enterprise](https://lentech.co.ke/lenchat-enterprise)
+**Commercial licensing.** If you need to build LenChat into a closed-source product, a commercial license without AGPL obligations is available from LENTECH DIGIWORKS: [lentech.co.ke/enterprise](https://lentech.co.ke/enterprise)
 
 Copyright &copy; 2026 Leonard Muia t/a LENTECH DIGIWORKS.
 
