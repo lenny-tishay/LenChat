@@ -257,8 +257,8 @@
 
     function plainText(md) {
         return String(md || '')
-            .replace(/```[\s\S]*?(```|$)/g, ' (code block omitted). ')
-            .replace(/~~~[\s\S]*?(~~~|$)/g, ' (code block omitted). ')
+            .replace(/```[\s\S]*?(```|$)/g, ' ')
+            .replace(/~~~[\s\S]*?(~~~|$)/g, ' ')
             .replace(/!\[[^\]]*\]\([^)]*\)/g, ' ')
             .replace(/\[([^\]]+)\]\([^)]*\)/g, '$1')
             .replace(/https?:\/\/\S+/g, ' link ')
